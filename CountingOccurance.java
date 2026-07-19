@@ -1,0 +1,1 @@
+// Find how many time the number is repeated (ex: 624562852762, ans = 2)
